@@ -2,9 +2,12 @@
   "name": "Ejemplo3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Forma1-Contrasena.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }
