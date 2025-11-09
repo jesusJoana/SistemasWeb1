@@ -1,0 +1,17 @@
+{
+  "nombre": "Jesus",
+  "direccion": {
+    "calle": "Avenida Ciudad de Barcelona 23",
+    "ciudad": "Madrid",
+    "numero": 20
+  },
+  "telefonos": [
+    {
+      "movil": 612345678
+    },
+    {
+      "fijo": 912345678
+    }
+  ],
+  "edad": 27
+}

@@ -1,0 +1,15 @@
+{
+  "usuario": "Jesus",
+  "fecha": "2025-11-01T10:35:00Z",
+  "inscritos": [
+    23,
+    45,
+    51,
+    60
+  ],
+  "comentarios": {
+    "visible": true,
+    "texto": "Curso muy interesante"
+  },
+  "password": "ABBS"
+}
