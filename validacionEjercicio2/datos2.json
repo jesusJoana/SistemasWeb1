@@ -1,0 +1,56 @@
+{
+  "nombre_festival": "Sonidos del Sol",
+  "ciudad": "Valencia",
+  "precio": "120 euros",
+  "fecha": [
+    {
+      "dia": "5 Julio",
+      "actuaciones": [
+        {
+          "grupo": "Arctic Monkeys",
+          "horario": [
+            {
+              "empieza": "20:00",
+              "termina": "22:00"
+            }
+          ],
+          "miembros": ["Alex Turner", "Jamie Cook", "Nick O’Malley", "Matt Helders"]
+        },
+        {
+          "grupo": "The Strokes",
+          "horario": [
+            {
+              "empieza": "22:30",
+              "termina": "00:00"
+            }
+          ],
+          "miembros": ["Julian Casablancas", "Nick Valensi", "Albert Hammond Jr", "Nikolai Fraiture", "Fabrizio Moretti"]
+        }
+      ]
+    },
+    {
+      "dia": "6 Julio",
+      "actuaciones": [
+        {
+          "grupo": "Vetusta Morla",
+          "horarios": [
+            {
+              "empieza": "19:00",
+              "termina": "21:00"
+            }
+          ]
+        },
+        {
+          "grupo": "Love of Lesbian",
+          "horarios": [
+            {
+              "empieza": "21:30",
+              "termina": "23:30"
+            }
+          ]
+        }
+      ]
+
+    }
+  ]
+}

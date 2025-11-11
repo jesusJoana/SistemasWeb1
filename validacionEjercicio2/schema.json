@@ -1,0 +1,7 @@
+{
+  "title": "Lista de peliculas de cine",
+  "type": "array",
+  "items": {
+    "type": "object"
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "pelicula": "Transformers",
+    "dirigida": "Jon Watts",
+    "actores_principales": [
+      "Tom Hollandy",
+      "Zendaya"
+    ],
+    "cine": [
+      {
+        "sala": 17,
+        "horarios": [
+          "17:00",
+          "20:15"
+        ]
+      },
+      {
+        "sala": 20,
+        "horarios": [
+          "18.00",
+          "21:15"
+        ]
+      }
+    ]
+  },
+  {
+    "pelicula": "TheMatrix Resurrections",
+    "dirigida": "Lana Wachowski",
+    "actores": [
+      "Keanu Reeves",
+      "Carrie-Anne Moss"
+    ],
+    "cine": [
+      {
+        "sala": 5,
+        "horarios": [
+          "19:15"
+        ]
+      },
+      {
+        "sala": 22,
+        "horarios": [
+          "22:30"
+        ]
+      }
+    ]
+  }
+]

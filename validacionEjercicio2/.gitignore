@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+.npm/
+
+# Lockfile recomendado
+# (commitea package-lock.json en la raíz, NO el de node_modules)
+package-lock.json
+
+# IDEs
+.idea/
+.vscode/
+
+# Env / OS
+.env
+.DS_Store
+Thumbs.db
